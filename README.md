@@ -1,4 +1,4 @@
-# Ejercicios HTML
+# Ejercicios CSS
 
 Ejercicios de CSS del bootcamp-frontend de Ada-IT
 
