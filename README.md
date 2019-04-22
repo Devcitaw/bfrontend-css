@@ -22,4 +22,4 @@ Ejercicios de CSS del bootcamp-frontend de Ada-IT
 - [Ejercicio 12](https://github.com/Kimcitaw/bfrontend-css/blob/master/index12.html)
 - [Ejercicio 13](https://github.com/Kimcitaw/bfrontend-css/blob/master/index13.html)
 - [Ejercicio 14](https://github.com/Kimcitaw/bfrontend-css/blob/master/index14.html)
-- [Ejercicio 15](https://github.com/Kimcitaw/bfrontend-css/tree/master/ej15)
+- [Ejercicio 15](https://github.com/Kimcitaw/bfrontend-css/blob/master/index15.html)
